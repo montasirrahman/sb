@@ -1,1 +1,1 @@
-https://oraclelinux.pkgs.org/8/ol8-baseos-latest-x86_64/libnsl-2.28-251.0.2.el8_10.5.x86_64.rpm.html
+https://yum.oracle.com/repo/OracleLinux/OL8/baseos/latest/x86_64/getPackage/libnsl-2.28-211.0.1.el8.x86_64. rpm
